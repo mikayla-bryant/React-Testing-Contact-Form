@@ -14,7 +14,7 @@
 
 In this challenge, you will be writing tests for a contact form that has been built with React.
 
-As a developer, you will be writing tests for every component. As we've learned, tests are a very important part of programming. The tests you will write will help you feel confident in the code you push to production!
+As a developer, you will be writing tests for every component. As we've learned, tests are a very important part of programming. The tests you will write will help you feel confident in the code you push to production!!
 
 ## Project Set Up
 
@@ -28,6 +28,7 @@ As a developer, you will be writing tests for every component. As we've learned,
 - [ ] Push commits: git push origin `<firstName-lastName>`.
 
 **Test Runner**
+
 - [ ] In a new terminal window, run `npm test`
 - [ ] With each saved change in your editor, the test runner will re-run all the tests
 - [ ] **IMPORTANT** If a test fails, use the test runner's error messages to find out why it is failing
